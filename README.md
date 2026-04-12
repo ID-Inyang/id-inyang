@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is ID. Inyang and I'm a FullStack developer.
 
 <!--
 **ID-Inyang/id-inyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
