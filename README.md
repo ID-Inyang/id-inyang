@@ -2,7 +2,7 @@
 
 # My stack
 React,
-Node + Express
+Node + Express,
 MongoDB,
 JavaScript,
 C,
