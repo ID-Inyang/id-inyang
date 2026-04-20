@@ -6,7 +6,8 @@ Node + Express,
 MongoDB,
 JavaScript,
 C,
-Python
+Python,
+TypeScript
 <!--
 **ID-Inyang/id-inyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
